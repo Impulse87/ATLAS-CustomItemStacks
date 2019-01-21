@@ -6,6 +6,15 @@ You can even modify everything to your needs with custom stack sizes, weight and
 ## Using this mod as a basis for your own stacking mod
 If you want to use this mods' sources as learning material or you want to create your own mod based on this one, please don't forget to give credit!
 
+**How to give credit:** simply add a link like that 
+```
+This mod bases on the source code of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1629667379]Custom Item Stacks[/url]
+```
+to your mod Workshop page ;)
+
+## How to get this mod working in your ATLAS_DevKit (not crashing your DevKit)
+Create a folder named "CustomItemStacks" in the /Content/Mods folder and extract the content of this repo into it.
+
 ## Donation/Support
 If you like my work and want to support further development or just to spend me a coffee please
 
