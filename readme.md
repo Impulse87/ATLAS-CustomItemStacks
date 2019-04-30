@@ -1,12 +1,7 @@
-[![alt text](https://i.imgur.com/lp3TIu6.png "Custom Item Stacks")](https://steamcommunity.com/sharedfiles/filedetails/?id=1629667379)
-
 ## CustomItemStacks - ModID: 1629667379
 This mod does, contrary to other stacking mods, not introduce child classes or even copies of the original classes, but uses the vanilla classes. What this means, you can simply continue to gather your normal ATLAS resources and stuff and even if you remove this mod, it won't delete everything! Note that you will, of course, lose the over the top stack amount, once the mod is removed again... you could secure resources in ShipResourceBoxes and ammo in the AmmoBox, but not on your ship, since it will sink due to overweight then.
 
 You can even modify everything to your needs with custom stack sizes, weight and even spoil timers for particular items. Or if that's to much work for you, simply use for example the overall stack multiplier as documented in the server settings discussion. This gives you a powerful tool to even add other mod items and customize their stuff!
-
-
-[![alt text](https://i.imgur.com/eFHQnDY.jpg "Gunpowder and Fertilizer fix")](https://steamcommunity.com/workshop/filedetails/discussion/1629667379/1778261844032445525/)
 
 [![alt text](https://i.imgur.com/x4YkqgY.jpg "Default ItemSettings")](https://drive.google.com/open?id=1gxikojJzbMFDO_31G4KryuVauTbGo_RNEc-P7g7qKoE)
 
