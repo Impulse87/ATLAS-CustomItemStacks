@@ -31,7 +31,6 @@ If you like my work and want to support further development or just to spend me 
 
 [![alt text](https://i.imgur.com/xezX26q.png "Paypal €")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VQRPA46YADD9J)
 
-[![alt text](https://i.imgur.com/nLOjZGb.png "Become a Patreon")](https://www.patreon.com/user?u=5515247)
 
 ## License
 This mod/code/work is protected by the
